@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Anaconda Navigator
+Comment=Anaconda software environment
+Exec=/home/marcel/anaconda3/bin/./anaconda-navigator
+Icon=/home/marcel/anaconda3/icons/icon.svg
+Terminal=false
+Categories=Graphics;Science;Development;
